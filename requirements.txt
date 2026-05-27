@@ -1,0 +1,11 @@
+PyQt6
+aiohttp
+aiohttp-socks
+python-socks
+certifi
+charset-normalizer
+kurigram
+tgcrypto
+telethon
+PySocks
+opentele-py313
